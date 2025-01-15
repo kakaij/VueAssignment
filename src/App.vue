@@ -138,7 +138,7 @@ button:hover {
   background-color: #0056b3;
 }
 
-/* Cards Section */
+
 .cards {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
